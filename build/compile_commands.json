@@ -1,7 +1,0 @@
-[
-{
-  "directory": "c:/Users/s138093/Desktop/vscode/build",
-  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe    -g   -o CMakeFiles\\cSample.dir\\cSample.cpp.obj -c C:\\Users\\s138093\\Desktop\\vscode\\cSample.cpp",
-  "file": "C:/Users/s138093/Desktop/vscode/cSample.cpp"
-}
-]
